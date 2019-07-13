@@ -6,7 +6,7 @@ package cn.itcast.qqmusic.bean;
  * @description: TODO
  * @date 2019/5/30 18:57
  */
-//
+//rfr
 public enum ErrorCode {
 
     SUCCESS(0,"ok"),
